@@ -12,11 +12,17 @@
 - 한국산업기술대학교 15' IT경영학과 김민정
 - 한국산업기술대학교 16' 산업디자인학과 조민기
 
-
 ## 사업계획서
--> [사업계획서 바로보기]
+- [사업계획서 바로보기](https://github.com/KGJsGit/VACMA_KIT_prop/blob/master/dox/%EC%82%AC%EC%97%85%EA%B3%84%ED%9A%8D%EC%84%9C_%EA%B3%A0%EB%AF%BC%EB%82%A8_2.0.pdf)
 
-## 최종발표 자료 및
+## 최종발표(로켓피칭) 자료
+- 발표자 : 고광종, 김남균 (5min)
+- [로켓피칭 자료 바로보기](https://github.com/KGJsGit/VACMA_KIT_prop/blob/master/dox/%EA%B3%A0%EB%AF%BC%EB%82%A8%20%EB%B0%9C%ED%91%9C%202.0.pdf)
 
 ## 수상
 - 대상 수상
+- <img src = 'https://github.com/KGJsGit/VACMA_KIT_prop/blob/master/dox/%EC%88%98%EC%83%81.jpg?raw=true'>
+
+## Contact
+- E-mail : ilovecoding@kakao.com / ko970710@gmail.com
+- github : https://github.com/KGJsGit
