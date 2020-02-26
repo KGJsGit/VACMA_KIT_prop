@@ -21,7 +21,7 @@
 
 ## 수상
 - 대상 수상
-- <img src = 'https://github.com/KGJsGit/VACMA_KIT_prop/blob/master/dox/%EC%88%98%EC%83%81.jpg?raw=true'>
+<img src = 'https://github.com/KGJsGit/VACMA_KIT_prop/blob/master/dox/%EC%88%98%EC%83%81.jpg?raw=true'>
 
 ## Contact
 - E-mail : ilovecoding@kakao.com / ko970710@gmail.com
